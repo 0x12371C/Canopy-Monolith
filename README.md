@@ -1,4 +1,4 @@
-Alephium standalone
+Canopy standalone
 ====
 
 This repository builds a container image of [Alephium layer 1 blockchain](https://alephium.org) full node
