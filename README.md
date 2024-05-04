@@ -1,7 +1,7 @@
 Canopy standalone
 ====
 
-This repository builds a container image of [Alephium layer 1 blockchain](https://alephium.org) full node
+This repository builds a container image of [Canopy Subnet layer 1 blockchain](https://alephium.org) full node
 based on the official [`alephium/alephium`](https://hub.docker.com/r/alephium/alephium/tags), wrapping the original entrypoint with [entrypoint-wrapper.sh](./entrypoint-wrapper.sh)
 in order to add the features described below. The final images are available in [Docker Hub](https://hub.docker.com/r/touilleio/alephium-standalone/tags) under the
 name `touilleio/alephium-standalone`.
